@@ -41,7 +41,7 @@ catboost>=1.1.0
 
 # Optional: Hyperparameter Optimization
 optuna>=3.0.0
-ray[tune]>=2.0.0
+# ray[tune]>=2.0.0  # Note: ray has compatibility issues with Python 3.13 on Windows
 
 # Optional: Model Interpretability
 shap>=0.41.0
