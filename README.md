@@ -1,4 +1,20 @@
-# Amazon ML Challenge 2025 - Smart Product Pricing
+<div align="center">
+
+# Amazon ML Challenge 2025
+
+**Machine Learning Competition Solution**
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn)](https://scikit-learn.org/)
+[![Amazon](https://img.shields.io/badge/Amazon-ML_Challenge-FF9900?logo=amazon)](https://www.amazon.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Adit-Jain-srm/Amazon_ML_Challenge_2025)](https://github.com/Adit-Jain-srm/Amazon_ML_Challenge_2025)
+
+*Competitive machine learning solution for Amazon ML Challenge 2025.*
+
+</div>
+
+---
 
 ## 🏆 Team Arize
 
